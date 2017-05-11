@@ -56,5 +56,5 @@ Rails.application.routes.draw do
   #     resources :products
   #   end
   
-  root 'application#goodbye'
+  root 'welcome#index'
 end
